@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drake</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+
+        p {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Drake</h1>
+    <p>Drake, full name Aubrey Drake Graham, is a Canadian rapper, singer, and songwriter. He gained recognition with his unique style and has become one of the most successful and influential artists in the music industry.</p>
+    <img src="drake_image.jpg" alt="Drake Image">
+    <p>Follow Drake on <a href="https://www.instagram.com/champagnepapi/" target="_blank">Instagram</a> for the latest updates.</p>
+</body>
+
+</html>
