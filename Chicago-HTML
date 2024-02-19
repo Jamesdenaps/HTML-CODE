@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chicago</title>
+<style>
+  body {
+    background-color: yellow;
+    font-family: Arial, sans-serif;
+    color: black;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  h1 {
+    text-align: center;
+  }
+  p {
+    margin-bottom: 20px;
+  }
+  .image {
+    text-align: center;
+  }
+  .image img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Welcome to Chicago</h1>
+  
+  <p>Chicago is the third-most populous city in the United States, located in the state of Illinois. It is known for its rich history, diverse culture, stunning architecture, and vibrant arts scene.</p>
+  
+  <p>Founded in 1837, Chicago quickly grew into a major transportation hub due to its strategic location along Lake Michigan and the Chicago River. It played a crucial role in the development of the Midwest and the nation as a whole.</p>
+  
+  <p>One of the most iconic features of Chicago is its skyline, which boasts some of the tallest and most distinctive buildings in the world. From the Willis Tower (formerly known as the Sears Tower) to the John Hancock Center, the cityscape is a sight to behold.</p>
+  
+  <div class="image">
+    <img src="chicago-skyline.jpg" alt="Chicago Skyline">
+  </div>
+  
+  <p>In addition to its architecture, Chicago is renowned for its cultural institutions, including the Art Institute of Chicago, the Field Museum, and the Museum of Science and Industry. The city also offers a thriving culinary scene, with a wide range of restaurants serving everything from deep-dish pizza to gourmet cuisine.</p>
+  
+  <p>Chicago is home to numerous parks and outdoor spaces, providing residents and visitors alike with opportunities for recreation and relaxation. Millennium Park, with its iconic Cloud Gate sculpture (often referred to as "The Bean"), is a popular destination for tourists.</p>
+  
+  <p>Whether you're exploring its historic neighborhoods, taking in a show at one of its world-class theaters, or simply enjoying the stunning views along Lake Michigan, Chicago offers something for everyone.</p>
+</div>
+
+</body>
+</html>
