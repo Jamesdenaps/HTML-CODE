@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UFC</title>
+<style>
+  body {
+    background-color: red;
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  h1 {
+    text-align: center;
+  }
+  p {
+    margin-bottom: 20px;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Ultimate Fighting Championship (UFC)</h1>
+  
+  <p>The Ultimate Fighting Championship (UFC) is an American mixed martial arts (MMA) promotion company based in Las Vegas, Nevada. It is the largest MMA promotion in the world and features some of the highest-level fighters in the sport.</p>
+  
+  <p>The UFC was founded in 1993 by Art Davie, Bob Meyrowitz, and Rorion Gracie. The organization held its first event in Denver, Colorado, with the goal of determining the most effective martial art in a real fight scenario. This early iteration of the UFC featured fighters from various disciplines, including boxing, Brazilian Jiu-Jitsu, wrestling, karate, and more.</p>
+  
+  <p>Over the years, the UFC has evolved significantly, adopting a set of unified rules and regulations and implementing weight classes to ensure fair competition. The promotion has also grown in popularity, attracting a global fan base and securing lucrative broadcasting deals.</p>
+  
+  <p>Today, the UFC hosts numerous events each year, including pay-per-view matchups, Fight Night events, and international fight cards. Its roster includes fighters from all over the world, competing in various weight divisions and vying for championship titles.</p>
+  
+  <p>In addition to its live events, the UFC also produces reality television shows such as "The Ultimate Fighter" and "Dana White's Contender Series," which aim to discover and develop new talent in the sport.</p>
+  
+  <p>With its combination of athleticism, strategy, and excitement, the UFC continues to captivate audiences worldwide and remains at the forefront of the MMA industry.</p>
+</div>
+
+</body>
+</html>
